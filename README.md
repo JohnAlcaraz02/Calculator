@@ -8,6 +8,7 @@
 - [💻 How to Run the Application](#-how-to-run-the-application)
 - [📸 Sample Outputs](#-sample-outputs)
 - [👥 Team Members](#-team-members)
+- [📃 Acknowledgement](#-acknowledgement)
 
 ---
 ## 📋 Project Description:
@@ -45,11 +46,19 @@ This is a basic Windows Forms calculator developed in C# using .NET. The applica
 ![image](https://github.com/user-attachments/assets/6cb9e02a-3856-497d-baa6-b297b1c54f17)
 
 ---
-
 ## 👥 Team Members:
 
 - Alcaraz, John  
 - Bulanadi, Sophia Loureine  
 - Comia, Ian Emmanuel  
 - Niepes, Marc Vergel
+
+---
+## 📃 Acknowledgement
+
+
+We would like to express our deepest gratitude to Ms. Fatima Marie Agdon, our Advanced Object-Oriented Programming professor, for her unwavering support, guidance, and dedication throughout the course. Her expertise and encouragement have been instrumental in the completion of this project. We are also sincerely thankful to our families for their endless support, understanding, and motivation that inspired us to give our best. Lastly, we would like to thank our classmates for their camaraderie, collaboration, and shared learning experiences that enriched our journey in this course.
+
+
+This project would not have been possible without the collective support of all these individuals. Thank you.
 
