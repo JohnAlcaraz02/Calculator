@@ -6,7 +6,7 @@
 - [📋 Project Description](#-project-description)
 - [⚙ Features](#-features)
 - [💻 How to Run the Application](#-how-to-run-the-application)
-- [📸 Sample Outputs}(#-sample-outputs)
+- [📸 Sample Outputs](#-sample-outputs)
 - [👥 Team Members](#-team-members)
 
 ---
