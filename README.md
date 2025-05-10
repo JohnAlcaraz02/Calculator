@@ -44,7 +44,7 @@ This is a basic Windows Forms calculator developed in C# using .NET. The applica
 
 ![image](https://github.com/user-attachments/assets/6cb9e02a-3856-497d-baa6-b297b1c54f17)
 
-
+---
 
 ## 👥 Team Members:
 
