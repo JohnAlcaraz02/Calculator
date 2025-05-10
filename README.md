@@ -5,6 +5,7 @@
 
 - [📋 Project Description](#-project-description)
 - [⚙ Features](#-features)
+- [🔧 OOP Principles Used](#-oop-principles-used)
 - [💻 How to Run the Application](#-how-to-run-the-application)
 - [📸 Sample Outputs](#-sample-outputs)
 - [👥 Team Members](#-team-members)
@@ -24,6 +25,17 @@ This is a basic Windows Forms calculator developed in C# using .NET. The applica
 - Displays the current operation in progress
 - Handles divide-by-zero cases with appropriate error messages
 - Supports decimal inputs
+
+---
+## 🔧 OOP Principles Used:
+
+Encapsulation - The Form1 class groups all data (FirstNumber, Operation) and methods (button click events), hiding internal details from outside access.
+
+Abstraction - Users interact with buttons, not the logic. Each event handler hides the underlying calculation logic.
+
+Inheritance- Form1 inherits from the .NET Form class, gaining access to form features without extra code.
+
+Polymorphism - Event handlers like object sender can work with different buttons, showing basic polymorphic behavior.
 
 ---
 ## 💻 How to Run the Application:
