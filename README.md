@@ -34,7 +34,7 @@ This is a basic Windows Forms calculator developed in C# using .NET. The applica
 5. The Calculator GUI will appear, ready for use.
 
 ---
-## 📸Saple Outputs:
+## 📸 Saple Outputs:
 
 ![image](https://github.com/user-attachments/assets/090010e1-0d69-48d3-b186-f9e988f7d85b)
 
