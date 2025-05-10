@@ -17,7 +17,7 @@ This is a basic Windows Forms calculator developed in C# using .NET. The applica
 ## ⚙ Features:
 
 - Basic arithmetic operations: Add, Subtract, Multiply, Divide
-- Clear (C) button to remove the previous input
+- Clear button to to reset the input
 - Backspace function to delete the last digit
 - Displays the current operation in progress
 - Handles divide-by-zero cases with appropriate error messages
